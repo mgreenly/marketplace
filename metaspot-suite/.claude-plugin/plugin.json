@@ -1,0 +1,13 @@
+{
+  "name": "metaspot-suite",
+  "version": "0.1.0",
+  "description": "Delivers the metaspot suite's remote-HTTP MCP servers (crm + ledger) into Claude, plus a doctor check that proves the plugin -> Cowork -> connector -> dashboard OAuth -> service chain works end to end.",
+  "author": {
+    "name": "Michael Greenly",
+    "email": "mgreenly@gmail.com"
+  },
+  "homepage": "https://ai.metaspot.org",
+  "repository": "https://github.com/mgreenly/marketplace",
+  "license": "MIT",
+  "keywords": ["metaspot", "crm", "ledger", "mcp"]
+}

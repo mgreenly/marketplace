@@ -1,0 +1,15 @@
+{
+  "name": "metaspot",
+  "owner": {
+    "name": "Michael Greenly",
+    "email": "mgreenly@gmail.com"
+  },
+  "description": "Private Claude plugin marketplace for the metaspot suite (technology demonstrator).",
+  "plugins": [
+    {
+      "name": "metaspot-suite",
+      "source": "./metaspot-suite",
+      "description": "Remote-HTTP MCP servers for the metaspot suite: crm + ledger, served from ai.metaspot.org."
+    }
+  ]
+}
